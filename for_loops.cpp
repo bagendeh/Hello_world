@@ -2,8 +2,8 @@
 using namespace std;
 
 int main() {
-  for (int i = 0; i < 9; i++) {
-    if (i == 4) {
+  for (int i = 0; i < 8; i++) {
+    if (i == 3) {
       continue;
     }
     cout << i << "\n";
